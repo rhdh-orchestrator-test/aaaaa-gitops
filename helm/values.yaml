@@ -1,0 +1,6 @@
+petclinic:
+  # This image tag can be automatically updated by invoking the workflow
+  # included in this repository 
+  image: quay-lzh25.apps.cluster-lzh25.sandbox662.opentlc.com/rhdh-orchestrator-test/aaaaa
+  tag: latest 
+  replicas: 1
